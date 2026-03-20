@@ -1,2 +1,3 @@
-# smart-time-tracker-d3jj
-Automated issue comment bot repository
+# Smart Time Tracker D3Jj
+
+Automated issue comment bot repository.
